@@ -8,7 +8,7 @@
 </div>
 
    ##
-### Sou estudante do curso de Ciências da Computação da Universidade Federal de Santa Catarina
+### Sou estudante do curso de Ciências da Computação da UFSC, estou familiarizado com:
 <div style="display: inline-block" align='center'><br>
   <img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C-plus-plus" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
